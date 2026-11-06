@@ -1,10 +1,6 @@
 # 🪙 yevmiye
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gratefultoGOD/yevmiye/main/.github/banner.png" alt="yevmiye banner" width="100%" onerror="this.style.display='none'"/>
-</p>
-
-<p align="center">
   <em>"Yevmiye — günlük hak ediş, kodun bereketi, artık neyse o."</em>
 </p>
 
